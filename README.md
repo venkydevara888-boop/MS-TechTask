@@ -40,10 +40,9 @@ npm run dev
 
 ## Author
 **Venky Devarapaga**  
-Email: your-email@example.com  
-GitHub: https://github.com/your-username
+Email: venkydevara888@gmail.com  
+GitHub: https://github.com/venkydevara888-boop/MS-TechTask.git
 
 ## License
-This project is open-source under the MIT License.
-
+This project is open-source .
 
